@@ -26,6 +26,6 @@ Algorytm k-średnich (KMeans) dzieli zbiór danych na określoną liczbę klastr
 4. **Wizualizacja** – Skrypt generuje wykres, na którym punkty są przedstawione w różnych kolorach odpowiadających przypisanym klastrom. Centroidy klastrów są wyświetlane jako czarne krzyżyki.
 
 ## 👨‍💻 Autorzy
-- **Mateusz Rzeźnikiewicz** oraz **Patryk Ryba**
+- **Mateusz Rzeźnikiewicz** oraz **Patryk Ryba**  
 **Politechnika Rzeszowska, 2023**  
 
