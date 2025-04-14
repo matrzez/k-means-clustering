@@ -6,7 +6,7 @@ Projekt dotyczy implementacji oraz analizy algorytmu k-średnich, który jest po
 Algorytm k-średnich (KMeans) dzieli zbiór danych na określoną liczbę klastrów, minimalizując sumę odległości między punktami a centroidami (środkami) tych klastrów. Jest to jeden z najczęściej używanych algorytmów w analizie danych i uczeniu maszynowym.
 
 ## 📊 Technologie
-- **Python** – do implementacji algorytmu i analizy wyników
+- **Python** – do implementacji algorytmu i analizy wyników.
 
 ## 📁 Pliki w repozytorium
 - **Algorytm_k_srednich.py** – plik zawierający implementację algorytmu KMeans oraz kod umożliwiający generowanie punktów, klasteryzację i wizualizację wyników.
