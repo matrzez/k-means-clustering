@@ -14,8 +14,8 @@ Algorytm k-średnich (KMeans) dzieli zbiór danych na określoną liczbę klastr
 ## Opis działania
 
 1. **Generowanie punktów** – Użytkownik ma możliwość wyboru trybu generowania punktów:
-   - **'l'** – losowo wygenerowane punkty w przedziale [1, 100].
-   - **'r'** – ręczne wprowadzanie współrzędnych punktów.
+   - **l** – losowo wygenerowane punkty w przedziale [1, 100].
+   - **r** – ręczne wprowadzanie współrzędnych punktów.
   
 2. **Klasteryzacja** – Po wygenerowaniu punktów, algorytm KMeans jest wykorzystywany do podzielenia punktów na zadaną liczbę klastrów. Użytkownik wprowadza liczbę punktów oraz liczbę klastrów.
 
