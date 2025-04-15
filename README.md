@@ -9,7 +9,7 @@ Algorytm k-średnich (KMeans) dzieli zbiór danych na określoną liczbę klastr
 - **Python** – do implementacji algorytmu i analizy wyników.
 
 ## 📁 Pliki w repozytorium
-- **Algorytm_k_srednich.py** – plik zawierający implementację algorytmu KMeans oraz kod umożliwiający generowanie punktów, klasteryzację i wizualizację wyników.
+- **`Algorytm_k_srednich.py`** – plik zawierający implementację algorytmu KMeans oraz kod umożliwiający generowanie punktów, klasteryzację i wizualizację wyników.
 
 ## Opis działania
 
