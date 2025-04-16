@@ -1,7 +1,7 @@
 # Projekt: Algorytm K-Średnich
 
 ## 📌 Opis projektu
-Projekt dotyczy implementacji oraz analizy algorytmu k-średnich, który jest popularnym algorytmem wykorzystywanym do rozwiązywania problemów klasteryzacji w zbiorach danych. Celem projektu jest przeprowadzenie procesu klasteryzacji na losowo wygenerowanych punktach w przestrzeni 2D, a następnie wizualizacja wyników z wyświetleniem klas i centroidów. W ramach projektu, użytkownik ma możliwość wyboru metody generowania punktów (losowe lub ręczne) oraz dostosowania liczby punktów i klastrów. Projekt wykorzystuje również narzędzia do wizualizacji wyników, takie jak biblioteka `matplotlib`.
+Projekt dotyczy implementacji oraz analizy algorytmu k-średnich (KMeans), który jest popularnym algorytmem wykorzystywanym do rozwiązywania problemów klasteryzacji w zbiorach danych. Celem projektu jest przeprowadzenie procesu klasteryzacji na punktach w przestrzeni 2D, a następnie wizualizacja wyników z wyświetleniem centroidów. W ramach projektu, użytkownik ma możliwość wyboru metody generowania punktów (losowo lub ręcznie) oraz dostosowania ich liczby oraz liczby klas. Praca wykorzystuje bibliotekę `matplotlib` do wizualizacji danych i wyników klasteryzacji, a także inne odpowiednie narzędzia w celu realizacji algorytmu.
 
 Algorytm k-średnich (KMeans) dzieli zbiór danych na określoną liczbę klastrów, minimalizując sumę odległości między punktami a centroidami (środkami) tych klastrów. Jest to jeden z najczęściej używanych algorytmów w analizie danych i uczeniu maszynowym.
 
